@@ -1,0 +1,10 @@
+.shop-continar {
+  display: flex;
+}
+.product-continar {
+  width: 80%;
+  border-right: 2px solid lightgray;
+}
+.card-continar {
+  margin-left: 5px;
+}
